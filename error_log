@@ -1,4 +1,0 @@
-[23-Feb-2015 22:18:20 America/Chicago] PHP Parse error:  syntax error, unexpected 'include' (T_INCLUDE), expecting case (T_CASE) or default (T_DEFAULT) or '}' in /home3/newmanix/public_html/site17/kcmetro-web-service/api.php on line 30
-[24-Feb-2015 00:06:20 America/Chicago] PHP Warning:  include(data/uk_rail_stations_size.json): failed to open stream: No such file or directory in /home3/newmanix/public_html/site17/kcmetro-web-service/api.php on line 31
-[24-Feb-2015 00:06:20 America/Chicago] PHP Warning:  include(data/uk_rail_stations_size.json): failed to open stream: No such file or directory in /home3/newmanix/public_html/site17/kcmetro-web-service/api.php on line 31
-[24-Feb-2015 00:06:20 America/Chicago] PHP Warning:  include(): Failed opening 'data/uk_rail_stations_size.json' for inclusion (include_path='.:/opt/php54/lib/php') in /home3/newmanix/public_html/site17/kcmetro-web-service/api.php on line 31
